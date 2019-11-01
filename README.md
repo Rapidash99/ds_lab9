@@ -210,3 +210,5 @@ rs0:PRIMARY> rs.config()
 		"replicaSetId" : ObjectId("5dbc7234ecd3fae5b24d45ae")
 	}
 }
+
+![alt text](https://i.imgur.com/2jQI21g.png)
