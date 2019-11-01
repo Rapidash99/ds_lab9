@@ -436,4 +436,10 @@
 		}
 	}
 </details>
+Screenshot of chat before shutdown 1st machine:
+
 ![alt text](https://i.imgur.com/2jQI21g.png)
+
+After:
+
+![alt_text](https://i.imgur.com/Uu337gr.png)
